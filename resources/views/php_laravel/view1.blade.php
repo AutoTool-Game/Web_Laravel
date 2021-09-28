@@ -1,0 +1,1 @@
+<h1>view.blade.php</h1>

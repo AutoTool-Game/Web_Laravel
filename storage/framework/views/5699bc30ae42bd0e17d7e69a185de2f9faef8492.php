@@ -1,0 +1,1 @@
+<h1>view.blade.php</h1><?php /**PATH D:\Xampp\htdocs\php56_laravel\resources\views/php56/view1.blade.php ENDPATH**/ ?>

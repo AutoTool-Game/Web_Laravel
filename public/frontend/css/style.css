@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.active{
+    color: red !important;
+}
+
+.hot_news li a:hover{
+    color: red !important;
+}
+
+.summary{
+    background-color: #F3F6F7;
+}
+
+.slide{
+    display: none;
+}
+
+.btn-change {
+    padding-top: 10px;
+    cursor: pointer;
+}

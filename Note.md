@@ -1,0 +1,1 @@
+- Mình có để file test.sql để import vào phpmyadmin. Hãy dùng nó để project được chạy tốt nhất
